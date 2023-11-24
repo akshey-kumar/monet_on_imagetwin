@@ -1,0 +1,7 @@
+torch
+scikit-learn
+opencv-python
+tqdm
+keras
+matplotlib
+numpy==1.19.5
