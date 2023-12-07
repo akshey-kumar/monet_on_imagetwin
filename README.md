@@ -9,14 +9,14 @@ Then add the directory dataset into the repo with the following structure
 dataset
 ├── README.md
 ├── data_test
-│	 ├── features_test
-│	 └── labels_test
+│   ├── features_test
+│   └── labels_test
 ├── data_train
-│	 ├── features_train
-│	 └── labels_train
+│   ├── features_train
+│   └── labels_train
 ├── data_validation
-│	 ├── features_validation
-│	 └── labels_validation
+│   ├── features_validation
+│   └── labels_validation
 └── load_data.py
 
 Then run the script:
